@@ -29,6 +29,8 @@ Then ask Claude to modify a prefab file. The skill primes Claude with the full Y
 
 ### Creating a functioning clock from a one liner prompt
 
+![img0](img0.png)
+
 ![img1](img1.png)
 
 ![img2](img2.png)
